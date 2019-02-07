@@ -2,3 +2,5 @@
 
 Hola, este es el repositorio de GIT para la asignatura de Algoritmos de Optimización.
 Saludos desde México.
+Atte.
+Marco A. Ortiz
